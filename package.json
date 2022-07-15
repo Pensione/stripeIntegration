@@ -1,0 +1,23 @@
+{
+  "name": "stripeintegration",
+  "version": "1.0.0",
+  "description": "A simple solution, my training on integrating payments and crypto.",
+  "main": "main.js",
+  "scripts": {
+    "test": "run main"
+  },
+  "keywords": [
+    "Bootstrap",
+    "Node.js",
+    "Stripe",
+    "REST",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Alexander Mikhailov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  }
+}
